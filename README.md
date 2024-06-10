@@ -7,3 +7,6 @@ Here some high-level architecture on how it works!:
 <img width="1029" alt="image (2)" src="https://github.com/juanchodpg2/gen_ai_hackathon_db_reports_check/assets/126467473/8b2fc969-7d23-419d-b403-35779789b09e">
 
 Hope you enjoy as much as we did! :)
+
+## How to run it?
+Simple, just upload `DocuQuery_main.ipynb` to Databricks as a notebook, and run it! just adjust the location of the PDF you uploaded. To keep it simple we did only one pdf, but it can be enhanced to read multiple!
