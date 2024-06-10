@@ -1,4 +1,4 @@
-# gen_ai_hackathon_db_reports_check
+# DocuQuery! Your companion on retrieving the best and most concise information!
 
 Introducing DocuQuery 🤖🗎!, the next-generation Q&A bot powered by cutting-edge LLM. DocuQuery provides precise answers to specific questions from lengthy texts and multi-page PDFs. Whether you're navigating 🧭 through dense research papers, legal documents, or lengthy reports, DocuQuery transforms hours of reading into seconds 🏎️💨, delivering accurate and concise responses directly to your queries. Elevate your productivity and unlock insights faster with DocuQueryAI – your ultimate tool for efficient information extraction 👌.
 
