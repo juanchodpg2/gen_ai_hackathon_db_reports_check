@@ -1,0 +1,9 @@
+llama-parse
+typing-extensions
+llama-index-embeddings-fastembed
+fastembed
+transformers
+llama-index-vector-stores-qdrant
+qdrant_client
+llama-index-llms-groq
+langfuse
